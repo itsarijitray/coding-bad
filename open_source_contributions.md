@@ -4,3 +4,4 @@
 - https://github.com/usebruno/bruno/pull/3168
 - https://github.com/Pujo-Atlas-Kolkata/PujoAtlasKol-Web/pull/275
 - https://github.com/Pujo-Atlas-Kolkata/PujoAtlasKol-Web/pull/283
+- https://github.com/Pujo-Atlas-Kolkata/PujoAtlasKol-Web/pull/284
